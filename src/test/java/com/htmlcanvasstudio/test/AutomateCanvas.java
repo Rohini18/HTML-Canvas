@@ -21,7 +21,7 @@ public class AutomateCanvas extends CanvasStudio {
 			openURL("http://www.htmlcanvasstudio.com");
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			e.printStackTrace();;
 		}
 		
 	}
